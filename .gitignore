@@ -34,3 +34,11 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+
+# Nick temporary files
+junk.txt
+/src/cladoRcpp.so
+/src/init.o
+/src/basics.o
+/src/calc_anclikes_sp.o
+

@@ -1,20 +1,16 @@
 bibentry("Manual",
-         title = "cladoRcpp: C++ implementations of phylogenetic cladogenesis calculations",
+         title = "cladoRcpp: C++ Implementations of Phylogenetic Cladogenesis Calculations",
          author = c(person("Nicholas J.", "Matzke", email = "matzke@berkeley.edu", role=c("aut", "cre", "cph"))),
          organization = "University of California, Berkeley",
          address      = "Berkeley, CA",
          year         = 2013,
-         note         = "In addition to citing the CRAN packages, the best published work to cite at the moment (2014-05-16) when using rexpokit/cladoRcpp/BioGeoBEARS packages: \n\nMatzke, Nicholas J. (2013). Probabilistic historical biogeography: new models for founder-event speciation, imperfect detection, and fossils allow improved accuracy and model-testing. Frontiers of Biogeography, 5(4), 242-248. http://escholarship.org/uc/item/44j7n141\n\nOthers:\n\nMatzke, Nicholas Joseph (2013). Probabilistic Historical Biogeography: New Models for Founder-Event Speciation, Imperfect Detection, and Fossils Allow Improved Accuracy and Model-Testing. Ph.D. thesis, Department Integrative Biology and Designated Emphasis in Computational and Genomic Biology, University of California, Berkeley. Pages 1-240. August 2013. Available at: http://phylo.wikidot.com/local--files/biogeobears/Matzke_PhD_FINAL_v5_w_refs.pdf\n\nMatzke, Nicholas J. (2012). Founder-event speciation in BioGeoBEARS package dramatically improves likelihoods and alters parameter inference in Dispersal-Extinction-Cladogenesis (DEC) analyses. Frontiers of Biogeography, 4(suppl. 1): 210, December 2012.\nLink to abstract and PDF of poster:\n
-http://phylo.wikidot.com/matzke-2013-international-biogeography-society-poster .\n\n(Poster abstract 
-published in the Conference Program and Abstracts of the International Biogeography Society 6th Biannual 
-Meeting, Miami, Florida. Poster Session P10: Historical and Paleo-Biogeography. Poster 129B. January 11, 
-2013.)\n",
-         url          = "http://CRAN.R-project.org/package=cladoRcpp",
+         note         = "In addition to citing the CRAN packages, please cite these when using the rexpokit/cladoRcpp/BioGeoBEARS packages: \n\nMatzke, Nicholas J. (2013). Probabilistic historical biogeography: new models for founder-event speciation, imperfect detection, and fossils allow improved accuracy and model-testing. Frontiers of Biogeography, 5(4), 242-248. http://escholarship.org/uc/item/44j7n141\n\nOthers:\n\nMatzke, Nicholas Joseph (2014). Model Selection in Historical Biogeography Reveals that Founder-event Speciation is a Crucial Process in Island Clades. Systematic Biology, 63(6), 951-970\n",
+         url          = "https://cran.r-project.org/package=cladoRcpp",
          mheader = "To cite package 'cladoRcpp' in publications use:",
 		 mfooter = 
          paste("A lot of time and effort in creating cladoRcpp, as well as the sister packages 'rexpokit' and 'BioGeoBEARS',",
           "please cite it and the other packages when using it for publication.",
-	  "See also", sQuote("citation(\"pkgname\")"),
+	  "See also", sQuote("citation(\"cladoRcpp\")"),
 	  "for citing R packages.", sep = " ")
 	)
 

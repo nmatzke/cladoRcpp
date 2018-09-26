@@ -1,1 +1,8 @@
 ^\.travis\.yml$
+^junk\.txt$
+^/src/cladoRcpp\.so
+^/src/calc_anclikes_sp\.o
+^/src/basics\.o
+^.Rbuildignore
+^.travis\.yml
+^README\.md
