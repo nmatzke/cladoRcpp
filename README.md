@@ -7,8 +7,8 @@ Various cladogenesis-related calculations that are slow in pure R are implemente
 
 **NOTE:** As of 2018-10-03, a new version of cladoRcpp, 0.15, has been submitted on CRAN. This version includes minor modifications for trait-dependent dispersal models, and removes some dependencies previously needed by cladoRcpp/BioGeoBEARS. CRAN version is here, binaries should be available in a few days: [https://cran.r-project.org/package=cladoRcpp](https://cran.r-project.org/package=cladoRcpp)
 
-**Release v0.15** registered on Zenodo: 
+**Release v0.15** registered on Zenodo: [![DOI](https://zenodo.org/badge/140660124.svg)](https://zenodo.org/badge/latestdoi/140660124)
 
-**Zenodo link for release:** 
+**Zenodo link for release:** https://zenodo.org/badge/latestdoi/140660124
 
-**Zenodo DOI for release:** 
+**Zenodo DOI for release:** http://dx.doi.org/10.5281/zenodo.1442932
