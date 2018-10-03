@@ -5,9 +5,9 @@ Various cladogenesis-related calculations that are slow in pure R are implemente
 
 **Build status** on Travis-CI: [![Build Status](https://travis-ci.org/nmatzke/cladoRcpp.svg?branch=master)](https://travis-ci.org/nmatzke/cladoRcpp)
 
-**NOTE:** As of 2018-10-03, a new version of rexpokit, 0.15, has been submitted on CRAN. This version includes minor modifications for trait-dependent dispersal models, and removes some dependencies previously needed by cladoRcpp/BioGeoBEARS. CRAN version is here, binaries should be available in a few days: [https://cran.r-project.org/package=rexpokit](https://cran.r-project.org/package=rexpokit)
+**NOTE:** As of 2018-10-03, a new version of cladoRcpp, 0.15, has been submitted on CRAN. This version includes minor modifications for trait-dependent dispersal models, and removes some dependencies previously needed by cladoRcpp/BioGeoBEARS. CRAN version is here, binaries should be available in a few days: [https://cran.r-project.org/package=cladoRcpp](https://cran.r-project.org/package=cladoRcpp)
 
-**Release v0.15** registered on Zenodo: [![DOI](https://zenodo.org/badge/17001945.svg)](https://zenodo.org/badge/latestdoi/17001945)
+**Release v0.15** registered on Zenodo: 
 
 **Zenodo link for release:** 
 
