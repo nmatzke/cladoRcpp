@@ -2973,7 +2973,7 @@ maxent01y, SEXP max_minsize_as_function_of_ancsize) {
 			
 			// Skip if the ancsize is ALL AREAS
 			// CHECK
-			if (ancsize > 20)
+			if (ancsize > 2000)
 				{
 				continue;
 				}
