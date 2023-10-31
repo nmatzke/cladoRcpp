@@ -42,3 +42,5 @@ junk.txt
 /src/basics.o
 /src/calc_anclikes_sp.o
 
+.DS_Store
+inst/.DS_Store
